@@ -7,7 +7,7 @@ With **Lazy Speaker Slides** you can write presentations _in seconds_.
 
 Forget the style, focus on the content! :)
 
-Every H1 s a different slide.
+Every H1 is a different slide.
 
 # Features
 
