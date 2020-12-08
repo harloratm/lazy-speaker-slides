@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.19",
-    "marked": "^0.4.0",
+    "marked": "^0.7.0",
     "vue": "^2.5.16"
   },
   "devDependencies": {
